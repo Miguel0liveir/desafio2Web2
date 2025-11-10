@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; max-width: 700px; margin: 50px auto; padding: 20px; background: #f5f5f5; }
+.container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+.form-group { margin-bottom: 20px; }
+label { display: block; margin-bottom: 5px; font-weight: bold; color: #333; }
+input, select { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 5px; }
+button { background: #6f42c1; color: white; padding: 12px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 14px; }
+button:hover { background: #5a2d91; }
+.inline-form { display: flex; gap: 10px; margin-bottom: 15px; }
+.inline-form input { width: 200px; }
+.movimentacao { margin: 30px 0; padding: 20px; background: #f8f9fa; border-radius: 5px; }
+.info-estoque { margin-top: 20px; padding: 20px; background: #e9ecef; border-radius: 5px; }
+.sucesso { color: #155724; background: #d4edda; padding: 10px; border-radius: 5px; }
+.erro { color: #721c24; background: #f8d7da; padding: 10px; border-radius: 5px; }
